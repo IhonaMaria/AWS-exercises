@@ -11,3 +11,5 @@ The exercises explore these services:
 - RDS
 - VPC (and networking associated)
 - EMR
+- Dynamo DB
+- AWS Glue
